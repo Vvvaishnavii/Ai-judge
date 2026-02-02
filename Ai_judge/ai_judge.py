@@ -13,7 +13,7 @@ from dataclasses import dataclass
 # CONFIGURATION
 # ============================================================================
 
-API_KEY = "AIzaSyDfufiqEMzkiLOTlF_HV4JXBeg07DDGqHI"
+API_KEY = "enter your key"
 
 
 # ============================================================================
