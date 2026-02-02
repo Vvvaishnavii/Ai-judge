@@ -390,7 +390,7 @@ Improves edge case accuracy.
 pip install requests
 
 # Set your API key in ai_judge.py
-API_KEY = "AIzaSyDfufiqEMzkiLOTlF_HV4JXBeg07DDGqHI"
+API_KEY = "enter your key"
 
 # Run
 python ai_judge.py
